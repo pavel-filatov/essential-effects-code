@@ -1,4 +1,5 @@
 import cats.effect._
+import cats.implicits._
 
 //// Constructors ////
 
